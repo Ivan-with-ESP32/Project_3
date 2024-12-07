@@ -8,8 +8,8 @@ TForm2 *Form2;
 
 __fastcall TForm2::TForm2(TComponent* Owner) : TForm(Owner)
 {
-	LabelName->Caption = "Ïîëõîâñüêèé ²âàí Ïàâëîâè÷";
-    LabelYear->Caption  = "17 ðîê³â";
+    LabelName->Caption = "ÃÃ®Ã«ÃµÃ®Ã¢Ã±Ã¼ÃªÃ¨Ã© Â²Ã¢Ã Ã­ ÃÃ Ã¢Ã«Ã®Ã¢Ã¨Ã·";
+    LabelYear->Caption  = "17 Ã°Ã®ÃªÂ³Ã¢";
     Image1->Visible = false;
     Image2->Visible = false;
 }
